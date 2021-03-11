@@ -9,4 +9,4 @@ Framgangsmåte:
 - node -v (for å kontrollere om det har blitt installert rett versjon)
 - npm install onoff (GPIO-bibliotek)
 
-Etter dette skal du kunne køyre eksempelfilene som ligg i dette 'repository'.
+Etter dette skal du kunne køyre eksempelfilene som ligg i dette 'repository' ved å skrive 'node filnavn.js'. Du endrar sjølvsagt 'filnavn' til det navnet du har på fila di.
