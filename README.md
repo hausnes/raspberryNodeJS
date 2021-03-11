@@ -1,7 +1,7 @@
 # raspberryNodeJS
 Samling med program som benyttar Node JS for å styre GPIO.
 
-NB: Når du skal installere Node JS må du sjå til at du har ein oppdatert versjon. Per 11. mars 2021 så var anbefalt versjon 11.
+NB: Når du skal installere Node JS må du sjå til at du har ein oppdatert versjon. Per 11. mars 2021 så var anbefalt versjon 12.
 
 Framgangsmåte:
 - curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
